@@ -1,0 +1,24 @@
+{
+  "name": "timer-basic",
+  "version": "1.0.0",
+  "description": "An npm package for time count with the function of start, pause and reset",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZAINKHAN25/timer-basic-js.git"
+  },
+  "keywords": [
+    "npm",
+    "timer",
+    "basic"
+  ],
+  "author": "zain", 
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZAINKHAN25/timer-basic-js/issues"
+  },
+  "homepage": "https://github.com/ZAINKHAN25/timer-basic-js#readme"
+}
